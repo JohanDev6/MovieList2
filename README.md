@@ -1,11 +1,12 @@
-<img width='100%' src='https://res.cloudinary.com/tanjirin/image/upload/v1634572054/pklmrn4wsqbzj9sybiao.png'/>
+<img width='100%' src='https://res.cloudinary.com/dbklberci/image/upload/v1634574224/Screenshot_iqyd8a.png'/>
 
 # MoviesList 2
 
 > Esse projeto é uma versão atualizada de uns do meus primeiros projetos o Movies List feito em vanilla js, nesse versão utilizei React junto com algumas libs e uma atualização no design do projeto, "ainda falta alguns ajustes".
+
 # Deploy
 
-<!-- [Vercel Deploy](https://web-getlearn.vercel.app/app) -->
+[Vercel Deploy](https://reactjs-movie-list2.vercel.app/)
 
 ## Features
 
