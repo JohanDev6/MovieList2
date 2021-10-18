@@ -25,7 +25,7 @@
 
 ```bash
 $ git clone https://github.com/JohanDev6/REACTJS_MovieList2
-$ cd HTML_MyTasks2
+$ cd REACTJS_MovieList2
 $ yarn build
 ```
 
@@ -41,6 +41,6 @@ Para PRs use o ambiente de desenvolvimento
 
 ```bash
 $ git clone https://github.com/JohanDev6/REACTJS_MovieList2
-$ cd HTML_MyTasks2
+$ cd REACTJS_MovieList2
 $ yarn start
 ```
